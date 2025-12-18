@@ -41,4 +41,4 @@ Because this tool supports many formats in one place, it’s often used early in
 
 ## 🙏 Credits
 
-TTGames Explorer Rebirth was created and maintained by **AcK77**, with contributions from the modding community and references to other tools and research.
+TTGames Explorer Rebirth was created and maintained by **Ac_K**, with contributions from the modding community and references to other tools and research.
