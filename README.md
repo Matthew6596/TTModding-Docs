@@ -1,6 +1,6 @@
 # TTModding-Docs
 
-Welcome to **TTModding-Docs**, the home of TTGames LEGO video game modding — Everything you need, all in one place..
+Welcome to **TTModding-Docs**, the home of TTGames LEGO video game modding — Everything you need, all in one place.
 
 This repository contains the source of the **TTModding.com** website, built using **mdBook** and automatically generated and deployed via **GitHub Actions**.
 
