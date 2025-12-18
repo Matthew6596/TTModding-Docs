@@ -1,7 +1,14 @@
 # Summary
 
-[Introduction](README.md)
+[Introduction](readme.md)
 
-- [My First Chapter](my-first-chapter.md)
-- [Nested example](nested/README.md)
-    - [Sub-chapter](nested/sub-chapter.md)
+- [Characters](characters.md)
+- [Vehicles](vehicles.md)
+- [Games](games.md)
+    - [LEGO Star Wars: The Video Game](games/LSW1.md)
+    - [LEGO Star Wars II: The Original Trilogy](games/LSW2.md)
+- [File Formats](fileformats.md)
+    - [CBX Files](fileformats/cbx.md)
+ 
+- Misc
+    - [Contributors](contributors.md) 
