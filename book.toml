@@ -1,4 +1,15 @@
 [book]
 title = "TTModding - Documentation"
+authors = ["Ac_K"]
+description = "The home of TT Games LEGO video game modding — Everything you need, all in one place."
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+no-section-label = false
+git-repository-url = "https://github.com/AcK77/TTModding-Docs"
+git-repository-icon = "fab-github"
+edit-url-template = "https://github.com/AcK77/TTModding-Docs/edit/master/src/{path}"
+cname = "ttmodding.com"
 
 [preprocessor.alerts]
