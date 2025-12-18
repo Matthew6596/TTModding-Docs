@@ -18,4 +18,5 @@
 - [File Formats](fileformats.md)
     - [CBX Files](fileformats/cbx.md)
 - [Tools](tools.md)
-    - [CBXDecoder](tools/cbxdecoder.md)   
+    - [CBXDecoder](tools/cbxdecoder.md)
+    - [TTGames Explorer Rebirth](tools/ttgamesexplorerrebirth.md)  
