@@ -18,8 +18,8 @@ Refer to the project repository for any usage details or examples provided by th
 
 ## 📦 Availability
 
-- Project page: [https://github.com/connorh315/CBXDecoder](https://github.com/connorh315/CBXDecoder)  
-- Source code: Closed source
+- **Repository**: [https://github.com/connorh315/CBXDecoder](https://github.com/connorh315/CBXDecoder)  
+- **License**: Unknown / Closed source
 
 The tool is shared as-is by its author.
 
