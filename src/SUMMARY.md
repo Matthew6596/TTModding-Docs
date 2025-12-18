@@ -18,3 +18,4 @@
 - [File Formats](fileformats.md)
     - [CBX Files](fileformats/cbx.md)
 - [Tools](tools.md)
+    - [CBXDecoder](tools/cbxdecoder.md)   
