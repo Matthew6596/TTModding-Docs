@@ -22,3 +22,4 @@ level = 0
 [preprocessor.embedify]
 footer.enable = true
 footer.message = "Copyright © 2025 • Created with ❤️ by TTModding community."
+scroll-to-top.enable = true
