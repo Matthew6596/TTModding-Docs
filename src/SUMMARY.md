@@ -11,4 +11,4 @@
     - [CBX Files](fileformats/cbx.md)
  
 - Misc
-    - [Contributors](contributors.md) 
+    - [Contributors](misc/contributors.md) 
