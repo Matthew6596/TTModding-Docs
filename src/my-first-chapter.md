@@ -2,6 +2,5 @@
 
 Fill out your content here.
 
-```admonish example
-My example is the best!
-```
+> [!IMPORTANT]
+> Key information that shouldn't be missed.
