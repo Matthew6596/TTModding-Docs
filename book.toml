@@ -11,6 +11,7 @@ git-repository-url = "https://github.com/AcK77/TTModding-Docs"
 git-repository-icon = "fab-github"
 edit-url-template = "https://github.com/AcK77/TTModding-Docs/edit/main/{path}"
 cname = "ttmodding.com"
+theme = "theme"
 
 [output.html.fold]
 enable = true
