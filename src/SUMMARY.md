@@ -53,6 +53,7 @@
 
 - [File Formats](fileformats.md)
     - [CBX Files](fileformats/cbx.md)
+    - [TSH Files](fileformats/tsh.md)
 - [Tools](tools.md)
     - [CBXDecoder](tools/cbxdecoder.md)
     - [NUTCrackerV3](tools/nutcrackerv3.md)
