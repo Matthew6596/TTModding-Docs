@@ -18,12 +18,12 @@ Refer to the project repository for any usage details or examples provided by th
 
 ## 📦 Availability
 
-- Project page: https://github.com/connorh315/CBXDecoder
-- Source code: **Not publicly available (closed source)**
+- Project page: [https://github.com/connorh315/CBXDecoder](https://github.com/connorh315/CBXDecoder)  
+- Source code: Closed source
 
 The tool is shared as-is by its author.
 
 ## 🙏 Credits
 
-CBXDecoder was created by **connorh315**.  
+CBXDecoder was created by connorh315.  
 All credit and thanks go to the original author.
