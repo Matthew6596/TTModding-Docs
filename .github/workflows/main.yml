@@ -39,8 +39,8 @@ jobs:
           cargo install --version ${MDBOOK_VERSION} mdbook
       - name: Install Plugins/Themes
         run: |
-          cargo install mdbook-admonish
-          dbook-admonish install src
+          cargo install mdbook-admonish --vers "1.5.0" --locked
+          mdbook-admonish install src
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
