@@ -12,4 +12,8 @@ git-repository-icon = "fab-github"
 edit-url-template = "https://github.com/AcK77/TTModding-Docs/edit/main/{path}"
 cname = "ttmodding.com"
 
+[output.html.fold]
+enable = true
+level = 1
+
 [preprocessor.alerts]
