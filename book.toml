@@ -6,9 +6,9 @@ description = "The home of TT Games LEGO video game modding — Everything you n
 [output.html]
 default-theme = "rust"
 preferred-dark-theme = "ayu"
-no-section-label = false
+no-section-label = true
 git-repository-url = "https://github.com/AcK77/TTModding-Docs"
-git-repository-icon = "fab-github"
+git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/AcK77/TTModding-Docs/edit/main/{path}"
 cname = "ttmodding.com"
 theme = "theme"
