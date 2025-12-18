@@ -36,7 +36,7 @@ Because this tool supports many formats in one place, it’s often used early in
 
 ## 📦 Availability
 
-- **Repository:** https://github.com/AcK77/TTGames-Explorer-Rebirth  
+- **Repository:** [https://github.com/AcK77/TTGames-Explorer-Rebirth](https://github.com/AcK77/TTGames-Explorer-Rebirth) 
 - **License:** MIT License (open source)
 
 ## 🙏 Credits
