@@ -4,8 +4,6 @@ Welcome to **TTModding**, a community-driven documentation site dedicated to TTG
 
 This site exists to gather, preserve, and share knowledge about modding TTGames LEGO titles — from file formats and tools to research, discoveries, and practical guides. Whether you are just getting started or already deep into reverse engineering, you’ll find useful information here.
 
----
-
 ## 📖 What you’ll find here
 
 On this site, you can explore:
@@ -17,8 +15,6 @@ On this site, you can explore:
 
 All content is written with the goal of being **clear, practical, and reusable**.
 
----
-
 ## 🤝 A community project
 
 TTModding is built **by the community, for the community**.
@@ -27,8 +23,6 @@ Anyone can contribute — you don’t need to be an expert or a core developer.
 If you’ve discovered something, built a tool, fixed an issue, or learned something useful, you’re welcome to share it here.
 
 Every contribution helps improve and expand this knowledge base.
-
----
 
 ## ✍️ How to contribute
 
@@ -41,14 +35,10 @@ Once your contribution is accepted, it will automatically appear on this website
 
 No special setup or permissions are required.
 
----
-
 ## ❤️ Giving credit
 
 If you contribute, you can add your name or alias to the contributors list, along with a link to your GitHub profile.  
 This site values transparency, collaboration, and proper credit.
-
----
 
 ## 🚀 Get started
 
