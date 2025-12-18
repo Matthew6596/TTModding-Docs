@@ -18,3 +18,7 @@ enable = true
 level = 1
 
 [preprocessor.alerts]
+
+[preprocessor.embedify]
+footer.enable = true
+footer.message = "Copyright © 2025 • Created with ❤️ by TTModding community."
