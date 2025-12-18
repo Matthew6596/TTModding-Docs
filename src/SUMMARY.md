@@ -55,4 +55,5 @@
     - [CBX Files](fileformats/cbx.md)
 - [Tools](tools.md)
     - [CBXDecoder](tools/cbxdecoder.md)
+    - [NUTCrackerV3](tools/nutcrackerv3.md)
     - [TTGames Explorer Rebirth](tools/ttgamesexplorerrebirth.md)  
