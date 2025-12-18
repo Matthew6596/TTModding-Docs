@@ -40,6 +40,7 @@ jobs:
       - name: Install Plugins
         run: |
           cargo install mdbook-alerts
+          cargo install mdbook-embedify
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
