@@ -1,7 +1,7 @@
 # 2015 - LEGO Dimensions
 
 <p align="center">
-<img src="../images/covers/LEGODimensions.jpg" alt="Lego Battles" height="400" />
+<img src="../images/covers/LEGODimensions.jpg" alt="LEGO Dimensions" height="400" />
 </p>
 
 ## Release Date
