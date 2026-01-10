@@ -1,7 +1,7 @@
 # 2009 - LEGO Battles
 
 <p align="center">
-![Lego Battles](media/covers/LegoBattle.jpg)
+<img src="../images/covers/LegoBattle.jpg" alt="Lego Battles" height="400" />
 </p>
 
 ## Release Date
