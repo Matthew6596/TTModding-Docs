@@ -32,6 +32,7 @@ This page lists all **TTGames LEGO video games** with links to their dedicated p
 - 2015 - [LEGO Dimensions (Dimensions)](games/dimensions.md)
 - 2016 - [LEGO Marvel's Avengers (LMSH2)](games/lmsh2.md)
 - 2016 - [LEGO Star Wars: The Force Awakens (LSW-FA)](games/lsw_fa.md)
+- 2016 - [LEGO Lego Harry Potter Collection (LHPC)](games/lhpc.md)
 - 2017 - [LEGO Worlds (Worlds)](games/worlds.md)
 - 2017 - [The LEGO Ninjago Movie Videogame (NinjagoMovie)](games/ninjago_movie.md)
 - 2017 - [LEGO Marvel Super Heroes 2 (LMSH3)](games/lmsh3.md)
