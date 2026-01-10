@@ -1,7 +1,7 @@
 # 2018 - LEGO DC Super-Villains
 
 <p align="center">
-<img src="../images/covers/LEGODCSuperVillains.jpg" alt="Lego Battles" height="400" />
+<img src="../images/covers/LEGODCSuperVillains.jpg" alt="LEGO DC Super-Villains" height="400" />
 </p>
 
 ## Release Date
