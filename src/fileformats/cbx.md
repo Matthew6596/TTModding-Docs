@@ -37,8 +37,8 @@ To work with CBX files, modders usually convert them into a standard audio forma
 ## 🔧 Known tools
 
 The following tools are commonly used with CBX files:
-- [CBXDecoder](tools/cbxdecoder.md)
-- [TTGames Explorer Rebirth](tools/ttgamesexplorerrebirth.md)
+- [CBXDecoder](../tools/cbxdecoder.md)
+- [TTGames Explorer Rebirth](../tools/ttgamesexplorerrebirth.md)
 - [vgmstream](https://github.com/vgmstream/vgmstream)
 
 ## ⚠️ Notes & limitations
