@@ -37,4 +37,4 @@ The following tools are commonly used with GIZ files:
 
 The structure may vary between engine versions:
 
-- Nu2 (Classic) Engine: [LEGO Star Wars: The Complete Saga | Giz File Documentation V1](external-docs/GizFileDocumentation_v1.pdf) (PDF Download)
+- Nu2 (Classic) Engine: [LEGO Star Wars: The Complete Saga | Giz File Documentation V1](external-docs/GizFileDocumentation_v1.pdf) (PDF)
