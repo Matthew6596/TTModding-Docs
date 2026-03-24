@@ -9,6 +9,7 @@ If you’ve contributed in any way (code, tools, documentation, research, ideas,
 This list is a way to give credit, say thanks, and highlight the people who help keep this project alive:
 
 - [Ac_K](https://github.com/AcK77)
+- [MattonMat](https://github.com/Matthew6596)
 
 Feel free to add yourself above in alphabetical order.
 
