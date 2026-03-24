@@ -15,11 +15,11 @@ This format is not officially documented by TTGames. The current understanding c
 
 ## 🎮 Usage in games
 
-The file format was introduced in [LEGO Batman 3: Beyond Gotham](games/lb3.md) with the initial file version 4. 
+The file format was introduced in [LEGO Batman 3: Beyond Gotham](../games/lb3.md) with the initial file version 4. 
 
 Version 5 seems to be indistinguishable from version 4 except the `VTOR` FourCC is missing. 
 
-Version 11 was introduced in [LEGO Star Wars: The Skywalker Saga](games/lsw_ss.md). This format changes slightly, mostly with the lack of Trim information headers and the name is stored as a 16 bit sized string, it's upper case hash and it's regular hash. The texture is also moved into a seperate `.TEXTURE` file pointed to at the end of the file.
+Version 11 was introduced in [LEGO Star Wars: The Skywalker Saga](../games/lsw_ss.md). This format changes slightly, mostly with the lack of Trim information headers and the name is stored as a 16 bit sized string, it's upper case hash and it's regular hash. The texture is also moved into a seperate `.TEXTURE` file pointed to at the end of the file.
 
 ## 🛠️ Working with TSH files
 
@@ -34,7 +34,7 @@ To work with TSH files, modders usually extract them into separated image format
 ## 🔧 Known tools
 
 The following tools are commonly used with TSH files:
-- [TTGames Explorer Rebirth](tools/ttgamesexplorerrebirth.md)
+- [TTGames Explorer Rebirth](../tools/ttgamesexplorerrebirth.md)
 
 ## ⚠️ Notes & limitations
 
