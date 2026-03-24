@@ -25,7 +25,7 @@ The file format was introduced in _.
 ## 🔧 Known tools
 
 The following tools are commonly used with GIZ files:
-- [TTGames Explorer Rebirth](tools/ttgamesexplorerrebirth.md)
+- [TTGames Explorer Rebirth](../tools/ttgamesexplorerrebirth.md)
 
 ## ⚠️ Notes & limitations
 
@@ -37,4 +37,4 @@ The following tools are commonly used with GIZ files:
 
 The structure may vary between engine versions:
 
-- Nu2 (Classic) Engine: [LEGO Star Wars: The Complete Saga | Giz File Documentation V1](fileformats/external-docs/GizFileDocumentation_v1.pdf) (PDF Download)
+- Nu2 (Classic) Engine: [LEGO Star Wars: The Complete Saga | Giz File Documentation V1](external-docs/GizFileDocumentation_v1.pdf) (PDF Download)
