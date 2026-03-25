@@ -20,6 +20,7 @@ The file format was introduced in Nu2 Engine.
 Some sections of the GIZ file can be edited in BrickBench, but you can always use a Hex Editor as well.
 
 ### Common workflow:
+
 N/A
 
 ## 🔧 Known tools
