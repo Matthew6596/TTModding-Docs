@@ -13,19 +13,19 @@ This format is not officially documented by TTGames. The current understanding c
 
 ## 🎮 Usage in games
 
-The file format was introduced in _.
+The file format was introduced in Nu2 Engine.
 
 ## 🛠️ Working with GIZ files
 
 Some sections of the GIZ file can be edited in BrickBench, but you can always use a Hex Editor as well.
 
 ### Common workflow:
-1. ...
+N/A
 
 ## 🔧 Known tools
 
 The following tools are commonly used with GIZ files:
-- [TTGames Explorer Rebirth](../tools/ttgamesexplorerrebirth.md)
+- [BrickBench](https://brickbench.github.io/)
 
 ## ⚠️ Notes & limitations
 
@@ -41,7 +41,7 @@ The structure may vary between engine versions:
 
 ### TCS GIZ Structure
 
-*Type Legend*
+#### Type Legend
 
 | Type       | Description              |
 |------------|--------------------------|
@@ -63,7 +63,7 @@ The structure may vary between engine versions:
 
 ---
 
-*Overall*
+#### Overall
 
 ```
 /
@@ -76,7 +76,7 @@ The structure may vary between engine versions:
 
 ---
 
-*Special Objects*
+#### Special Objects
 
 Special objects are used in multiple gizmo sections and are loaded through the same function.
 Linking to special objects or other parts can be done without the special objects loading function,
@@ -101,7 +101,7 @@ out completely for each section despite the repetition.
 
 ---
 
-*GizObstacle Section*
+#### GizObstacle Section
 
 GizObstacles are primarily invisible triggers of sorts. For example, in 1-2 when you jump on top
 of the stone pillars, you enter a GizObstacle trigger that causes the pillar to fall.
@@ -149,7 +149,7 @@ of the stone pillars, you enter a GizObstacle trigger that causes the pillar to 
 
 ---
 
-*GizBuildit Section*
+#### GizBuildit Section
 
 GizBuildit is the buildable attribute applied to special objects.
 
@@ -187,7 +187,7 @@ GizBuildit is the buildable attribute applied to special objects.
 
 ---
 
-*GizForce Section*
+#### GizForce Section
 
 GizForce is the forceable attribute applied to special objects.
 
@@ -238,7 +238,7 @@ GizForce is the forceable attribute applied to special objects.
 
 ---
 
-*blowup Section*
+#### Blowup Section
 
 ```
 /
@@ -332,7 +332,7 @@ GizForce is the forceable attribute applied to special objects.
 
 ---
 
-*GizmoPickup Section*
+#### GizmoPickup Section
 
 ```
 /
@@ -366,7 +366,7 @@ GizForce is the forceable attribute applied to special objects.
 
 ---
 
-*Lever Section*
+#### Lever Section
 
 ```
 /
@@ -397,7 +397,7 @@ GizForce is the forceable attribute applied to special objects.
 
 ---
 
-*Spinner Section*
+#### Spinner Section
 
 Spinner is the green and red gizmo that you push to spin.
 
@@ -432,7 +432,7 @@ Spinner is the green and red gizmo that you push to spin.
 
 ---
 
-*MiniCut Section*
+#### MiniCut Section
 
 MiniCuts are short cutscenes that occur in the middle of levels.
 
@@ -463,7 +463,7 @@ MiniCuts are short cutscenes that occur in the middle of levels.
 
 ---
 
-*Tube Section*
+#### Tube Section
 
 Tubes are the areas that blow/fan/float your character upwards. They are also used in the podsprint level.
 
@@ -482,7 +482,7 @@ Tubes are the areas that blow/fan/float your character upwards. They are also us
 
 ---
 
-*ZipUp Section*
+#### ZipUp Section
 
 ZipUps are the red targets and grapples that blaster characters can swing and zip between.
 
@@ -507,7 +507,7 @@ ZipUps are the red targets and grapples that blaster characters can swing and zi
 
 ---
 
-*GizTurret Section*
+#### GizTurret Section
 
 GizTurrets are the turrets that don't move but shoot at the player, such as in vehicle levels or on Kamino.
 
@@ -562,7 +562,7 @@ GizTurrets are the turrets that don't move but shoot at the player, such as in v
 
 ---
 
-*BombGenerator Section*
+#### BombGenerator Section
 
 BombGenerators are the generators that spawn bombs for the player in vehicle levels.
 
@@ -585,7 +585,7 @@ BombGenerators are the generators that spawn bombs for the player in vehicle lev
 
 ---
 
-*Panel Section*
+#### Panel Section
 
 ```
 /
@@ -615,7 +615,7 @@ BombGenerators are the generators that spawn bombs for the player in vehicle lev
 
 ---
 
-*HatMachine Section*
+#### HatMachine Section
 
 HatMachines are the machines that give your character a hat when the lever is pulled.
 
@@ -654,7 +654,7 @@ HatMachines are the machines that give your character a hat when the lever is pu
 
 ---
 
-*PushBlocks Section*
+#### PushBlocks Section
 
 PushBlocks are the blocks that can be pushed and slid across the tiled floors.
 Some unknown values may be related to allowing the PushBlock to be pushed after being pushed to a target location.
@@ -680,7 +680,7 @@ Some unknown values may be related to allowing the PushBlock to be pushed after 
 
 ---
 
-*Torp Machine Section*
+#### Torp Machine Section
 
 Torp Machines are the machines that you collect torpedoes from by flying over in vehicle levels.
 
@@ -698,7 +698,7 @@ Torp Machines are the machines that you collect torpedoes from by flying over in
 
 ---
 
-*ShadowEditor Section*
+#### ShadowEditor Section
 
 Unknown.
 
